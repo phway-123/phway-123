@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my school assignment projects.
+- 🌱 I’m currently learning java, java script, sql, version control.
+- 📫 How to reach me: contact me via my email (phway04.23@ichat.sp.edu.sg)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy sleeping lol
 
 <!--
 **phway-123/phway-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
